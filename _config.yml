@@ -1,7 +1,7 @@
 name: Danielgrafik
 favicon: null
-layout_spectrum: 0.6201110663823783
-typography_spectrum: 0.864268408389762
+layout_spectrum: 1
+typography_spectrum: 1
 title: Upcoming portfolio of a digital art director
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.7968089685309678
-  lightness: 0.7664369845297188
-  saturation: 0.2607769430615008
-  rhythmicContrast: 0.2965634409338236
+    - '#43334d'
+    - '#fe5b5c'
+    - '#a03f53'
+    - '#fefdfe'
+    - '#f6d790'
+  brandStrength: 0.25
+  lightness: 0.9375
+  saturation: 0.25
+  rhythmicContrast: 0.25
 purpose: []
